@@ -23,14 +23,6 @@ Welcome to my GitHub profile! Here you'll find some of the projects I've been wo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
 </p>
 
----
-
-## 🧮 Focus Areas
-- 📈 **Data Analysis & Visualization**  
-- 📊 **Statistical Learning & Inference**  
-- 🧠 **Neural Networks & Deep Learning**  
-- 🔢 **Symbolic Computation & Mathematical Modeling**  
-- 🧬 **Scientific Computing and Simulation**
 
 ---
 
@@ -38,6 +30,15 @@ Welcome to my GitHub profile! Here you'll find some of the projects I've been wo
 ![DsanpoV's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DsanpoV&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DsanpoV&layout=compact&theme=tokyonight)
 
+---
+
+
+## 🧮 Focus Areas
+- 📈 **Data Analysis & Visualization**  
+- 📊 **Statistical Learning & Inference**  
+- 🧠 **Neural Networks & Deep Learning**  
+- 🔢 **Symbolic Computation & Mathematical Modeling**  
+- 🧬 **Scientific Computing and Simulation**
 ---
 
 ## 🌐 Connect with Me
