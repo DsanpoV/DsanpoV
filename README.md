@@ -16,10 +16,12 @@ Welcome to my GitHub profile! Here you'll find some of the projects I've been wo
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50" height="50" alt="MATLAB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="SQL"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Wolfram_Mathematica_Logo.png" width="50" height="50" alt="Mathematica"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/KNIME_logo.svg" width="50" height="50" alt="KNIME"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" alt="SQL Server"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_Logo.svg" width="50" height="50" alt="Power BI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
 </p>
 
 ---
@@ -43,6 +45,3 @@ Welcome to my GitHub profile! Here you'll find some of the projects I've been wo
 📍 Portugal  
 🔗 [LinkedIn](https://www.linkedin.com/in/virg%C3%ADlio-loureiro-131a03180/)  
 
----
-
-> 🧠 *“Pure mathematics is, in its way, the poetry of logical ideas.”* — Albert Einstein
