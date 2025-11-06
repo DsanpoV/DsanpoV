@@ -19,7 +19,7 @@ Welcome to my GitHub profile! Here you'll find some of the projects I've been wo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/>
   <img src="KNIMELogoTM.png" width="200" height="400" alt="KNIME"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" alt="SQL Server"/>
+  <img src="images.png" width="50" height="50" alt="SQL Server"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_Logo.svg" width="50" height="50" alt="Power BI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
 </p>
