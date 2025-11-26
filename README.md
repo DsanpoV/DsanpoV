@@ -27,10 +27,9 @@ Welcome to my GitHub profile! Here you'll find some of the projects I've been wo
 ---
 
 ## 📊 GitHub Stats
-![DsanpoV's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DsanpoV&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DsanpoV&layout=compact&theme=tokyonight)
-
----
+![DsanpoV's GitHub Stats](https://github-readme-stats.vercel.sh/api?username=DsanpoV&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.sh/api/top-langs/?username=DsanpoV&layout=compact&theme=tokyonight)
+--
 
 
 ## 🧮 Focus Areas
